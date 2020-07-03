@@ -2,10 +2,7 @@
     border: 1px solid black;
 }
     
-h2{
-    
-    color: seagreen;
-}
+
 #articulos{
     display: flex;
     justify-content: space-around;
