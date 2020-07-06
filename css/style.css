@@ -1,12 +1,32 @@
+
+    img{
+        float: right;
+        }
 *{
     border: 1px solid black;
-}
-    
-
-#articulos{
-    display: flex;
-    justify-content: space-around;
-    
 
 }
 
+h2{ 
+   color: blue;
+   display: flex;
+   justify-content: space-between;
+   padding:0px 10px;
+    }
+
+
+.contenido{
+    display: none;
+    color: black;
+    padding: 0 20px;
+    font-size: 18px;
+    font-style: italic;
+  
+ }
+ h3{
+     color: rgb(78, 61, 139);
+     display: flex;
+     justify-content: space-between;
+     padding:0px 10px;
+ }
+ 
